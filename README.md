@@ -4,8 +4,8 @@
 
  ## Resources
 
- *sampling & evaluation.ipynb: pythoh code for sampling and model evaluation
- *samples.csv: the sampling result
- *Evidence.xlsx: the evidence dataset derived from http://virological.org/t/epidemiological-data-from-the-ncov-2019-outbreak-early-descriptions-from-publicly-available-data/337
- *Prior_Combined_With_Probability_full.xlsx: calculation result for posterior and joint probabilities
+ * sampling & evaluation.ipynb: pythoh code for sampling and model evaluation
+ * samples.csv: the sampling result
+ * Evidence.xlsx: the evidence dataset derived from http://virological.org/t/epidemiological-data-from-the-ncov-2019-outbreak-early-descriptions-from-publicly-available-data/337
+ * Prior_Combined_With_Probability_full.xlsx: calculation result for posterior and joint probabilities
 
